@@ -1,7 +1,7 @@
 # EDA-Academic-Hands-On
 Academic Project - Learning and Implementing Exploratory Data Analysis, including PCA, SVD and LDA.
 
-Data: Multiple famous in built dataset like iris, blobs, mnist.
+Data: Multiple in-built dataset like iris, blobs, mnist.
 
 Goal: This was a project designed by the professor to test our understanding and application of Exploratory Data Analysis module learned in the class. This module included topics such as Geometric view, Probabilistic view, Hypercube, Hyperspheres, Principal Component Analysis (PCA), Singular Value Decompistion (SVD) and Linear Discriminant Analysis
 
