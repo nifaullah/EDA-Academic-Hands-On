@@ -3,6 +3,8 @@ Academic Project - Learning and Implementing Exploratory Data Analysis, includin
 
 Data: Multiple in-built dataset like iris, blobs, mnist.
 
+Language: Python 3
+
 Goal: This was a project designed by the professor to test our understanding and application of Exploratory Data Analysis module learned in the class. This module included topics such as Geometric view, Probabilistic view, Hypercube, Hyperspheres, Principal Component Analysis (PCA), Singular Value Decompistion (SVD) and Linear Discriminant Analysis
 
 Approach: Professor provides us with dataset and then asks students to implement certain operations and then asks us explain the results of those operations. A sample practise module is also provided to familiarize with test.
